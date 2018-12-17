@@ -1,0 +1,9 @@
+[package]
+name = "uhd"
+version = "1.0.0"
+authors = ["Tanker"]
+edition = "2018"
+
+[dependencies]
+unicorn_hat_hd = "0.2"
+rgb = "0.8.11"
