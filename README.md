@@ -12,7 +12,7 @@
 #This will use rust to run pixel changes (easily changeable with RGB values using this example) on the RPi Pimoroni UnicornHat HD model.
 
 main.rs:
-
+'''
 extern crate unicorn_hat_hd;
 extern crate rgb;
 
@@ -36,3 +36,4 @@ pub fn main() {
         }
     }
 }
+'''
